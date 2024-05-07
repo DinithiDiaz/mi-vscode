@@ -10,6 +10,8 @@ This extension is currently in the developer preview state.
 
 - Set the `JAVA_HOME` environment variable in the system settings.
 
+- Download and install [Apache Maven](https://maven.apache.org/download.cgi) (version 3.6.0 onwards).
+
 - You need an active MI Copilot account to utilize the AI capabilities of the MI extension in the VSCode editor. Follow the steps below to create an account if you don't already have one:
 
     1. Go to https://accounts.asgardeo.io/t/wso2midev.
